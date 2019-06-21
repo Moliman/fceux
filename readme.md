@@ -4,4 +4,4 @@ An open source NES Emulator for Windows and Unix that features solid emulation a
 
 ## Feature of this fork
 
-Currently nothing that is not in the parent branch
+Currently nothing that is not present in the parent branch
