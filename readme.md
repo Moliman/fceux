@@ -4,4 +4,4 @@ An open source NES Emulator for Windows and Unix that features solid emulation a
 
 ## Feature of this fork
 
-- Binary view in RAM watch (only 1 byte size)
+Currently nothing that is not in the parent branch
